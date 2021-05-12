@@ -3,7 +3,7 @@
 ### Trabalho realizado:
 - Faculdade de Tecnologia - UNICAMP
 - Disciplina T_TT001A_2019S1 - Tópicos em Computação e Informática I
-- Ministrada pela Prof. Dr. Anna Palermo Coelho.
+- Ministrada pela Prof. Dr. Ana Estela Antunes da Silva.
 
 ### Foi desenvolvido em colaboração com:
 
